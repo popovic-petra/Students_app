@@ -30,7 +30,7 @@ def main():
 
     students = [Student("Mario", "Mandic", "1234"),
                 Student("Ana", "Ljubic", "2345"),
-                Student("Petra", "Popovic", "3432"),
+                Student("Luka", "Lukic", "3432"),
                 Student("Mara", "Mandic", "3432"),
                 Student("Grgo", "Jovanic", "3432"),
                 Student("Ana", "Mikic", "3221")]

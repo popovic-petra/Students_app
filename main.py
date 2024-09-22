@@ -31,7 +31,7 @@ def main():
     students = [Student("Mario", "Mandic", "1234"),
                 Student("Ana", "Ljubic", "2345"),
                 Student("Petra", "Popovic", "3432"),
-                Student("Sinisa", "Klasic", "3221")]
+                Student("Ana", "Mikic", "3221")]
     
     courses = [Course("Programiranje 1", "S101"),
                Course("Baze podataka", "S202")]

@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 
 from classes.student import Student
-=======
-from student import Student
->>>>>>> master
 import random
 
 class StudentGenerator(object):

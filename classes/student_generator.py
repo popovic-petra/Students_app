@@ -1,10 +1,10 @@
-from classes.student import Student
+from student import Student
 import random
 
 class StudentGenerator(object):
 
-    NAMES = ["Petra", "Helena", "Katarina", "Rozalija", "Lucija"]
-    LNAMES = ["Popovic", "Orsolic", "Suljug", "Zivkovic", "Sebelic"]
+    NAMES = ["Petra", "Helena", "Katarina", "Rozalija", "Lucija", "Deni"]
+    LNAMES = ["Popovic", "Orsolic", "Suljug", "Zivkovic", "Sebelic", "Vukajlovic"]
 
     def __init__(self):
         pass
